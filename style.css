@@ -1,0 +1,31 @@
+.entete img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.contenu img {
+    width: 200px;
+    height: 250px;
+}
+
+.contenu {
+}
+
+.texte {
+}
+
+.pied {
+}
+
+li {
+    display: inline-block;
+
+}
+
+.texte {
+    text-align: center;
+    
+}
+
